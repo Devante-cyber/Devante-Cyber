@@ -1,21 +1,12 @@
-## Hi there 👋
-
-<!--
-**Devante-cyber/Devante-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Devante Coleman
 
 🎯 Aspiring IT Support Specialist | Azure Cloud Learner | Active Directory & Help Desk Focus
-
----
 
 ## 🧠 About Me
 
 I am currently building hands-on experience in IT support, cloud computing, and systems administration. My focus is on Microsoft Azure, Active Directory, and Windows Server environments to prepare for entry-level IT Support and Help Desk roles.
 
 I enjoy troubleshooting technical issues, learning how systems work behind the scenes, and building real-world labs that simulate enterprise IT environments.
-
----
 
 ## ☁️ Current Focus
 
@@ -25,8 +16,6 @@ I enjoy troubleshooting technical issues, learning how systems work behind the s
 - Help Desk / IT Support Simulation Labs
 - Basic PowerShell Automation
 - Networking Fundamentals (DNS, DHCP, IP addressing)
-
----
 
 ## 🧪 Projects & Labs
 
@@ -55,8 +44,6 @@ I enjoy troubleshooting technical issues, learning how systems work behind the s
 - Password resets and account unlocks
 - Troubleshooting user access issues
 
----
-
 ## 💻 Technical Skills
 
 - Microsoft Azure (Beginner–Intermediate)
@@ -67,21 +54,15 @@ I enjoy troubleshooting technical issues, learning how systems work behind the s
 - Basic PowerShell
 - Git & GitHub Documentation
 
----
-
 ## 🎓 Certifications (In Progress)
 
 - CompTIA A+
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft IT Support Fundamentals
 
----
-
 ## 🎯 Career Goal
 
 My goal is to become a Tier 1 Help Desk Technician and grow into a Systems Administrator or Cloud Engineer role specializing in Microsoft Azure and enterprise IT systems.
-
----
 
 ## 📂 Featured Projects
 
@@ -89,15 +70,11 @@ My goal is to become a Tier 1 Help Desk Technician and grow into a Systems Admin
 - Active Directory Home Lab
 - Help Desk Simulation Projects
 
----
-
 ## 📫 Contact
 
 - 📍 Georgia, USA
 - 💼 Open to IT Support / Help Desk opportunities
-- 📧 Add your email here
+- 📧 Devantecoleman09@gmail.com
 - 🔗 LinkedIn: Add your profile
-
----
 
 ⭐ This profile is continuously updated as I build real-world IT and cloud experience.
